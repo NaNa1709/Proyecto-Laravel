@@ -1,0 +1,86 @@
+body{
+    background-color: beige;
+    text-align: center;
+    background-image: url('fondo2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#mp {
+    background-color: rgb(89, 104, 128);
+    padding: 40px;
+    margin: 65px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-radius: 4px 37px 4px 37px;
+
+  }
+  #ndp {
+    background-color: rgb(89, 104, 128);
+    padding: 5px;
+    margin: 25px;
+    margin-left: 470px;
+    margin-right: 470px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-radius: 4px 37px 4px 37px;
+
+  }
+
+h1{
+    color: rgb(0, 0, 0);
+    text-shadow: 30px;
+}
+label[for="nom"] {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #nom {
+    border: 1px solid rgb(130, 151, 219);
+    font-size: 17px;
+  }
+  label[for="can"] {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #can {
+    border: 1px solid rgb(130, 151, 219);
+    font-size: 17px;
+  }
+  label[for="pre"] {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #pre {
+    border: 1px solid rgb(130, 151, 219);
+    font-size: 17px;
+  }
+  label[for="col"] {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #col {
+    border: 1px solid rgb(130, 151, 219);
+    font-size: 50px;
+  }
+
+ #tab, th, td {
+  background-color: rgb(145, 172, 215);
+  margin-left: 380px;
+  margin-right: 270px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 20px;
+ }
+
+ tr:nth-child(odd) td {
+    border: 1px solid rgb(0, 0, 0);
+  }
+
+  tr:nth-child(even) td {
+    border: 1px solid rgb(0, 0, 0);
+  }
